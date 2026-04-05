@@ -43,14 +43,6 @@ I spent 1.7 years at Bosch building safety-critical automotive software—the ki
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-### 📊 GitHub Stats
-
-<div align="center">
-  
-![Rohini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohini-Ramesh&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohini-Ramesh&layout=compact&theme=radical&hide_border=true)
-
 </div>
 
 ### 💼 Experience
