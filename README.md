@@ -81,7 +81,7 @@ I spent 1.7 years at Bosch building safety-critical automotive software—the ki
 
 <div align="center">
 
-**📍 Madison, WI | Open to ML Engineering, Data Science & Embedded Software opportunities**
+**📍 Austin, TX | Open to ML Engineering, Data Science & Embedded Software opportunities**
 
 *"Production-ready code > Perfect notebooks"*
 
